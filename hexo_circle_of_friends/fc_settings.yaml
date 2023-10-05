@@ -44,11 +44,16 @@ SETTINGS_FRIENDS_LINKS: {
         ["山岳库博", "https://kmar.top/", "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"],
         ["轻笑Chuckle", "https://www.qcqx.cn", "https://www.qcqx.cn/head.webp"],
         ["Leonus", "https://blog.leonus.cn/", "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"],
+        ["三钻", "https://tridiamond.tech", "https://upen.caup.net/ai_pics_mj/202303/1677952366325269.jpg"],
+        ["困困鱼", "https://kunkunyu.com", "https://kunkunyu.com/upload/645fac04e203a.jpeg"],
+        ["Eurkon", "https://blog.eurkon.com", "https://blog.eurkon.com/images/user/avatar.jpg"],
+        ["小冰博客", "https://zfe.one", "https://zfe.space/images/headimage.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
         # 比如 https://elizen.me/hello.xml ，填写：
-        ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "hello.xml"]
+        ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "hello.xml"],
+        ["世界苦茶", "https://fearnation.club/", "https://s1.imagehub.cc/images/2023/10/05/c73491858c9e674e81a2f2143266848d.png", "rss"],
     ]
 }
 
