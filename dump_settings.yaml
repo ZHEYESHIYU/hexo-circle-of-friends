@@ -1,0 +1,62 @@
+BLOCK_SITE: []
+DATABASE: sqlite
+DEPLOY_TYPE: github
+GITEE_FRIENDS_LINKS:
+  enable: false
+  owner: ccknbc
+  repo: blogroll
+  state: open
+  type: normal
+GITHUB_FRIENDS_LINKS:
+  enable: false
+  label: active
+  owner: ccknbc
+  repo: ccknbc-actions
+  state: open
+  type: normal
+HTTP_PROXY: false
+LINK:
+- link: https://www.yurenyiyuji.top/link/
+  theme: butterfly
+- link: https://www.yurenyiyu.top/link/
+  theme: butterfly
+MAX_POSTS_NUM: 5
+OUTDATE_CLEAN: 60
+SETTINGS_FRIENDS_LINKS:
+  enable: true
+  json_api: ''
+  list:
+  - - Hexo
+    - https://hexo.io/zh-tw/
+    - https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+  - - Hexo-Butterfly
+    - https://butterfly.js.org/
+    - https://butterfly.js.org/img/avatar.png
+  - - "Akilar\u306E\u7CD6\u679C\u5C4B"
+    - https://akilar.top/
+    - https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg
+  - - "\u7231\u5403\u8089\u7684\u732B"
+    - https://meuicat.com/
+    - https://z1.ax1x.com/2023/05/26/p9qChjI.jpg
+  - - "Fomalhaut\U0001F95D"
+    - https://www.fomal.cc/
+    - https://s1.imagehub.cc/images/2023/10/05/avatar.webp
+  - - "\u5B89\u77E5\u9C7C"
+    - https://blog.anheyu.com/
+    - https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+  - - "\u5F20\u6D2AHeo"
+    - https://blog.zhheo.com/
+    - https://bu.dusays.com/2022/12/28/63ac2812183aa.png
+  - - "\u5C71\u5CB3\u5E93\u535A"
+    - https://kmar.top/
+    - https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png
+  - - "\u8F7B\u7B11Chuckle"
+    - https://www.qcqx.cn
+    - https://www.qcqx.cn/head.webp
+  - - Leonus
+    - https://blog.leonus.cn/
+    - https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5
+  - - elizen
+    - https://elizen.me/
+    - https://akilar.top/images/headimage.png
+    - hello.xml
