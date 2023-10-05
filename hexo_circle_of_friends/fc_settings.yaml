@@ -29,10 +29,10 @@ LINK: [
 #       link：必填，友链主页地址
 #       avatar：必填，头像地址
 #       suffix：选填，自定义订阅后缀，主要针对不规范的网站订阅后缀，见示例2
-SETTINGS_FRIENDS_LINKS: {
-    enable: true,
-    json_api: "",
-    list: [
+# SETTINGS_FRIENDS_LINKS: {
+    # enable: true,
+    # json_api: "",
+    # list: [
         # 示例1：
         ["Hexo", "https://hexo.io/zh-tw/", "https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg"],
         ["Hexo-Butterfly", "https://butterfly.js.org/", "https://butterfly.js.org/img/avatar.png"],
