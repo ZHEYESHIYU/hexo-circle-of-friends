@@ -23,4 +23,40 @@ OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
   enable: true
   json_api: ''
-  list: []
+  list:
+  - - "Akilar\u306E\u7CD6\u679C\u5C4B"
+    - https://akilar.top/
+    - https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg
+  - - "\u7231\u5403\u8089\u7684\u732B"
+    - https://meuicat.com/
+    - https://z1.ax1x.com/2023/05/26/p9qChjI.jpg
+  - - "\u5F20\u6D2AHeo"
+    - https://blog.zhheo.com/
+    - https://bu.dusays.com/2022/12/28/63ac2812183aa.png
+  - - ''
+    - ''
+    - ''
+  - - ''
+    - ''
+    - ''
+  - - ''
+    - ''
+    - ''
+  - - ''
+    - ''
+    - ''
+  - - ''
+    - ''
+    - ''
+  - - ''
+    - ''
+    - ''
+  - - ''
+    - ''
+    - ''
+  - - ''
+    - ''
+    - ''
+  - - ''
+    - ''
+    - ''
